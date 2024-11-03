@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^13.2.0",
+    "selenium-webdriver": "^4.26.0"
+  }
+}
